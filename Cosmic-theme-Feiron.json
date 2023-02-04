@@ -17,8 +17,8 @@
           "type": "path"
         },
         {
-          "background": "#18354c",
-          "foreground": "#ffc107",
+          "background": "#faa41a",
+          "foreground": "#202020",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "fetch_stash_count": true,
