@@ -29,16 +29,16 @@
           "type": "git"
         },
         {
-          "background": "#ffc107",
-          "foreground": "#18354c",
+          "background": "#faa41a",
+          "foreground": "#202020",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": " \ue235 {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }} ",
           "type": "python"
         },
         {
-          "background": "#ffc107",
-          "foreground": "#18354c",
+          "background": "#faa41a",
+          "foreground": "#202020",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": " \uf0e7 ",
